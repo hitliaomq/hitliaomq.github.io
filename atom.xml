@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hitliaomq.github.io/"/>
-  <updated>2020-06-15T22:57:42.704Z</updated>
+  <updated>2020-06-16T01:45:21.702Z</updated>
   <id>http://hitliaomq.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ElasticPOST</title>
+    <link href="http://hitliaomq.github.io/2020/06/15/ElasticPOST/"/>
+    <id>http://hitliaomq.github.io/2020/06/15/ElasticPOST/</id>
+    <published>2020-06-16T01:41:51.000Z</published>
+    <updated>2020-06-16T01:45:21.702Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introducation"><a href="#Introducation" class="headerlink" title="Introducation"></a>Introducation</h2><p><strong>ElasticPOST</strong> is a open software for the post process of second order elastic constant(SOECs).</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Introducation&quot;&gt;&lt;a href=&quot;#Introducation&quot; class=&quot;headerlink&quot; title=&quot;Introducation&quot;&gt;&lt;/a&gt;Introducation&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ElasticPOST&lt;/stron
+      
+    
+    </summary>
+    
+    
+    
+      <category term="software, elastic constant, anisotropy, gui, matlab" scheme="http://hitliaomq.github.io/tags/software-elastic-constant-anisotropy-gui-matlab/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
