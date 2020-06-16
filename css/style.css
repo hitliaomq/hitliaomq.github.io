@@ -5080,6 +5080,14 @@ table table {
   content: "\e63a";
 }
 
+.icon-publication:before {
+  content: "\e610";
+}
+
+.icon-software:before {
+  content: "\e702";
+}
+
 .icon-huaban:before {
   content: "\e63c";
 }
