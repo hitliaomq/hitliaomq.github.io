@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://hitliaomq.github.io/"/>
   <updated>2020-06-15T22:57:42.704Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://hitliaomq.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/06/15/hello-world/"/>
-    <id>http://yoursite.com/2020/06/15/hello-world/</id>
+    <link href="http://hitliaomq.github.io/2020/06/15/hello-world/"/>
+    <id>http://hitliaomq.github.io/2020/06/15/hello-world/</id>
     <published>2020-06-15T22:57:42.704Z</published>
     <updated>2020-06-15T22:57:42.704Z</updated>
     
