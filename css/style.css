@@ -5084,8 +5084,12 @@ table table {
   content: "\e610";
 }
 
+.icon-icon_article:before {
+  content: "\e610";
+}
+
 .icon-daima:before {
-  content: "\e702";
+  content: "\e631";
 }
 
 .icon-huaban:before {
